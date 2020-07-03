@@ -1,0 +1,27 @@
+
+
+image use: website background
+image name:road-asphalt-space-sky-56832
+image link:https://www.pexels.com/photo/road-landscape-nature-sky-56832/
+
+image use: mileage
+image name: speedometer-408327_1920-Cropped-e1498718101941
+image link: https://www.tyremarket.com/tyremantra/wp-content/uploads/2017/06/speedometer-408327_1920-Cropped-e1498718101941.jpg
+
+image use: average running
+image name: vector-a-car-running-at-the-road
+image link: https://static.vecteezy.com/system/resources/previews/000/526/880/non_2x/vector-a-car-running-at-the-road.jpg
+
+
+image use: fuel price
+image name: unnamed
+image link: https://lh3.googleusercontent.com/proxy/bHZ1JIaf1XIiX5XHbNcN7lz-AEq89YfRQEG8bStf4WAPsw-HZBdWrFz2ULnN_zgTB1HdWE99IDI_UvEmNXPRH92HwjC1l_gjJgQGHVgXSNrkGMBs1fSAexD1Xj64
+
+image use: maintanince
+image name: 56790329-vector-car-repair-icon-cartoon-cute-objects-for-car-design-car-service-or-garage-concept-equipment-t 
+image link: https://us.123rf.com/450wm/petitelili/petitelili1604/petitelili160400178/56790329-vector-car-repair-icon-cartoon-cute-objects-for-car-design-car-service-or-garage-concept-equipment-t.jpg?ver=6
+
+
+image use: car loan
+image name:loan-28-1493369966-1591948754
+image link: https://www.goodreturns.in/img/400x100/2020/06/loan-28-1493369966-1591948754.jpg
